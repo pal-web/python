@@ -6,7 +6,3 @@ else:
 
 def pallindrome(word):
      return word==word[::-1]
-
-
-def greet():
-    print("good afternoon")
